@@ -14,6 +14,8 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 <img width="682" alt="Captura de Pantalla 2023-01-31 a la(s) 15 54 07" src="https://user-images.githubusercontent.com/72363865/215892279-a24d3159-627c-4de2-8f7c-d21845fb59c4.png">
 
+<img width="1233" alt="Captura de Pantalla 2023-01-31 a la(s) 16 20 42" src="https://user-images.githubusercontent.com/72363865/215896907-a1d5e7e4-7106-4540-b6a1-7b212bc79986.png">
+
 
 
 
