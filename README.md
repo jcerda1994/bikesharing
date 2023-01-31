@@ -28,5 +28,8 @@ for the fifth graph I made a heat map showing the user trips by gender by weekda
 
 
 
+LINK TABLEAU PUBLIC:
+https://public.tableau.com/app/profile/jose.cerda/viz/tableau_challenge_16752009128630/Historia1?publish=yes
+
 
 
